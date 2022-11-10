@@ -28,18 +28,18 @@
 <tr align="center">
 <th rowspan="4"><center>Crear pagina</center></th>
 <td>Crear pagina </td>
+<td>Ejecutado</td>
+</tr>
+<tr align="center">
+<td>Crear pagina sin titulo y con contenido</td>
 <td></td>
 </tr>
 <tr align="center">
-<td>Crear 11 paginas sin titulo y con contenido</td>
+<td>Crear pagina sin titulo y ni contenido</td>
 <td></td>
 </tr>
 <tr align="center">
-<td>Crear 10 paginas sin titulo y ni contenido</td>
-<td></td>
-</tr>
-<tr align="center">
-<td>Crear 10 paginas solo con imagen</td>
+<td>Crear pagina solo con imagen</td>
 <td></td>
 </tr>
 <tr align="center">
@@ -62,19 +62,19 @@
 <tr align="center">
 <th rowspan="4"><center> Crear usuario</center></th>
 <td>Crear usuario con los datos correctos</td>
-<td></td>
+<td>Ejecutado</td>
 </tr>
 <tr align="center">
 <td>Registrar usuario con un email erroneo</td>
-<td></td>
+<td>Ejecutado</td>
 </tr>
 <tr align="center">
 <td>Registrar usuario vacio</td>
-<td></td>
+<td>Ejecutado</td>
 </tr>
 <tr align="center">
 <td>Registrar usuario solo con email y no poner contraseña </td>
-<td></td>
+<td>Ejecutado</td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Publicar post</center></th>
