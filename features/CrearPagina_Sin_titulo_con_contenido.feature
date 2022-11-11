@@ -1,4 +1,4 @@
-Feature: Crear usuario sin contraseña
+Feature: Crear pagina sin titulo con contenido
 @user1 @web
 Scenario: Crear pagina nueva
   Given I navigate to page "http://localhost:2368/ghost/#/signin"
@@ -13,7 +13,9 @@ Scenario: Crear pagina nueva
   And I wait for 2 seconds
   And I click New page
   And I wait for 3 seconds
-  And I enter page "My firt page"
-  And I wait for 6 seconds
+  And I enter page " "
+  And I wait for 2 seconds
+  And I enter contenido pagina "Se crea el contenido de una pagina "
+  And I wait for 2 seconds
   And I click Salir page
   And I wait for 7 seconds

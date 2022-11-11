@@ -27,6 +27,10 @@ When('I enter page {kraken-string}', async function (writepage) {
     return await element.setValue(writepage);
 });
 
+When('I enter contenido pagina {kraken-string}', async function (writecontenido) {
+    let element = await this.driver.$('.koenig-editor__editor.__mobiledoc-editor.__has-no-content');
+    return await element.setValue(writecontenido);
+});
 
 When('I click Salir page', async function() {
     let element = await this.driver.$('.ember-view.gh-btn-editor.gh-editor-back-button');
