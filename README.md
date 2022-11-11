@@ -22,7 +22,7 @@
 <td></td>
 </tr>
 <tr align="center">
-<td>Crear un post publicados</td>
+<td>Crear un post y hacer preview</td>
 <td></td>
 </tr>
 <tr align="center">

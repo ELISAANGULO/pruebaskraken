@@ -37,3 +37,33 @@ When('I click Salir page', async function() {
     return await element.click();
 })
 
+When('I click Posts', async function() {
+    let element = await this.driver.$('.ember-view.gh-secondary-action.gh-nav-new-post');
+    return await element.click();
+})
+
+
+When('I enter new post {kraken-string}', async function (writepage) {
+    let element = await this.driver.$('.gh-editor-title.ember-text-area.gh-input.ember-view');
+    return await element.setValue(writepage);
+});
+
+When('I enter a subtitle {kraken-string}', async function (writepage) {
+    let element = await this.driver.$('.koenig-editor__editor.__mobiledoc-editor.__has-no-content');
+    return await element.setValue(writepage);
+});
+
+When('I click Post back', async function() {
+    let element = await this.driver.$('.ember-view.gh-btn-editor.gh-editor-back-button');
+    return await element.click();
+})
+
+When('I click on mobile content', async function() {
+    let element = await this.driver.$('.gh-btn.gh-btn-group-selected.gh-post-preview-mode');
+    return await element.click();
+})
+
+When('I click on preview', async function() {
+    let element = await this.driver.$('.gh-btn.gh-btn-editor.gh-editor-preview-trigger');
+    return await element.click();
+})
