@@ -1,11 +1,17 @@
+const {Login} = require('./pages_object/login.js');
+const {UserData} = require('./pages_object/userData');
+
 const { Given, When, Then } = require('@cucumber/cucumber');
-When('I enter email {kraken-string}', async function (email) {
+const loginFrm= new Login("Incio");
+const userData = new UserData();
+
+When('I enter email', async function () {
     let element = await this.driver.$('.email.ember-text-field.gh-input.ember-view');
-    return await element.setValue(email);
+    return await element.setValue(userData.emailAdmin);
 });
-When('I enter password {kraken-string}', async function (password) {
+When('I enter password', async function () {
     let element = await this.driver.$('.password.ember-text-field.gh-input.ember-view');
-    return await element.setValue(password);
+    return await element.setValue(userData.passwordAdmin);
 });
 When('I click next', async function() {
     let element = await this.driver.$('.login.gh-btn.gh-btn-login.gh-btn-block.gh-btn-icon.js-login-button.ember-view');
