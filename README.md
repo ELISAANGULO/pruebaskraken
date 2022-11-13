@@ -40,7 +40,7 @@
 </tr>
 <tr align="center">
 <td>Crear pagina con titulo y descripcion</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_pagina_con_titulo_con_descripcion">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear tags</center></th>
