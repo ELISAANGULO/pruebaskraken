@@ -83,7 +83,7 @@
 </tr>
 <tr align="center">
 <td>Guardar miembro vacio</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_vacio">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Guardar miembro con un email erroneo</td>
