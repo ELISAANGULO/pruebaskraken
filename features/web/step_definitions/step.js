@@ -74,3 +74,13 @@ When('I click on preview', async function() {
     let element = await this.driver.$('.gh-btn.gh-btn-editor.gh-editor-preview-trigger');
     return await element.click();
 })
+ 
+When('I click edit post', async function() {
+    let element = await this.driver.$('.ember-view.gh-post-list-cta.edit');
+    return await element.click();
+})
+
+When('I edit post {kraken-string}', async function(writepage) {
+    let element = await this.driver.$('.gh-editor-title.ember-text-area.gh-input.ember-view');
+    return await element.setValue(writepage)
+})
