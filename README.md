@@ -3,7 +3,7 @@
 | Nombre            | email |
 | -------------     | ------------- |
 | Elisa Angulo      | e.angulov@uniandes.edu.co  |
-| David León        | da.vargasl1@uniandes.edu.co  |
+| David León        | da.vargasl1@uniandes.edu.co   |
 | Camilo Barreiro   | c.barreiroh@uniandes.edu.co  |
 | Isaí Oliva        | i.oliva@uniandes.edu.co  |
 ## Reportes
