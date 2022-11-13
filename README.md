@@ -74,7 +74,7 @@
 </tr>
 <tr align="center">
 <td>Registrar usuario solo con email y no poner contraseña </td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Sin_Contrase%C3%B1a">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Publicar post</center></th>
