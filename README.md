@@ -49,7 +49,7 @@
 </tr>
 <tr align="center">
 <td>Crear tags solo con nombre</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Solo_Con_Nombre">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags con nombre y descripcion</td>
