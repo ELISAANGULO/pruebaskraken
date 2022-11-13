@@ -77,7 +77,7 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Sin_Contrase%C3%B1a">Click aqui</a></td>
 </tr>
 <tr align="center">
-<th rowspan="4"><center> Publicar post</center></th>
+<th rowspan="4"><center> Crear miembro</center></th>
 <td>Guardar miembro vacio</td>
 <td></td>
 </tr>
