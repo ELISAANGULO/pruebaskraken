@@ -136,3 +136,24 @@ When('I click save tag', async function() {
     let element = await this.driver.$('.ember-view.gh-btn.gh-btn-primary');
     return await element.click();
 })
+
+When('I click miembro', async function() {
+    let element = await this.driver.$('#ember35');
+    return await element.click();
+})
+
+
+When('I click añadirse a uno mismo', async function() {
+    let element = await this.driver.$('.gh-btn.gh-btn-green');
+    return await element.click();
+})
+
+When('I click miembro nuevo', async function() {
+    let element = await this.driver.$('.ember-view.gh-btn.gh-btn-primary');
+    return await element.click();
+})
+
+When('I click guardar miembro', async function() {
+    let element = await this.driver.$('.gh-btn.gh-btn-primary.gh-btn-icon.ember-view');
+    return await element.click();
+})
