@@ -32,7 +32,7 @@
 </tr>
 <tr align="center">
 <td>Crear pagina sin titulo y con contenido</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Pagina_Sin_Titulo_Con_Contenido">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear pagina sin titulo y ni contenido</td>
