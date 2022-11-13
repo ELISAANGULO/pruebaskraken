@@ -1,3 +1,12 @@
+## Equipo 
+
+| Nombre            | email |
+| -------------     | ------------- |
+| Elisa Angulo      | e.angulov@uniandes.edu.co  |
+| David León        | da.vargasl1@uniandes.edu.co  |
+| Camilo Barreiro   | c.barreiroh@uniandes.edu.co  |
+| Isaí Oliva        | i.oliva@uniandes.edu.co  |
+
 <h1 align="center">Escenarios de pruebas Automatizadas</h1>
 
 A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
@@ -103,12 +112,35 @@ Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuen
 </tr>
 </table>
 
+## prerequisitos 
+
+npm 8.19.2
+<br/> 
+[Ghost CLI](https://ghost.org/docs/ghost-cli/)
+<br/>
+node 16.17.1
 
 ## Ejecución
 
 Para la ejecucion primero se tiene que descargar el repositorio colocando en la terminal el siguiente comando:
 
+
+Crear un directorio para instalar ghost 5.19.0
 ```shell
+$ mkdir ghost5_19_0
+
+$ cd ghost5_19_0
+```
+
+
+```shell
+ $ ghost install 5.19.0 local
+ $ ghost start
+```
+
+```shell
+$ mkdir equipo18
+$ cd equipo18
 $ git clone https://github.com/ELISAANGULO/Kraken.git
 ```
 Luego de haber descargado el repositorio procedera a ejecutar el siguiente comando dentro de la carpeta descargada
@@ -119,20 +151,18 @@ $ npm install kraken-node -g
 
 Luego de haber ejecutado el comando anterior procede a ejecutar Kraken con el siguiente comando
 
-```shell
-$ ./node_modules/kraken-node/bin/kraken-node run
-```
-
-```shell
- $ ghost install 5.19.0 local
-```
-
 configurar el usuario administrador con las credenciales email y password de este archivo.
 
 [user data](/features/web/step_definitions/pages_object/userData.js)
 
-Para ejecutar los escenarios se debe mover los archivos del directorio PruebasGhost en features.
+Para ejecutar los escenarios se debe mover los archivos uno por uno y ejecutar del directorio PruebasGhost en features.
 
 [PruebasGhost](/PruebasGhost)
 </br>
 [features](/features)
+
+
+```shell
+$ ./node_modules/kraken-node/bin/kraken-node run
+```
+
