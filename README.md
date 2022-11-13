@@ -131,4 +131,8 @@ configurar el usuario administrador con las credenciales email y password de est
 
 [user data](/features/web/step_definitions/pages_object/userData.js)
 
+Para ejecutar los escenarios se debe mover los archivos del directorio PruebasGhost en features.
 
+[PruebasGhost](/PruebasGhost)
+</br>
+[features](/features)
