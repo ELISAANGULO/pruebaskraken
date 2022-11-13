@@ -136,7 +136,7 @@ $ cd ghost5_19_0
 
 
 ```shell
- $ ghost install 5.19.0 local
+ $ ghost install 5.19.0 --port 2368 local
  $ ghost start
 ```
 
