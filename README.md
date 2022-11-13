@@ -78,19 +78,15 @@
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Publicar post</center></th>
-<td>Publicar post vacio y borrar post vacio</td>
+<td>Guardar miembro vacio</td>
 <td></td>
 </tr>
 <tr align="center">
-<td>Publicar post solo sin titulo pero con contenido y luego borrarlo</td>
+<td>Guardar miembro con un email erroneo</td>
 <td></td>
 </tr>
 <tr align="center">
-<td>Publicar post solo con titulo pero sin contenido y luego borrarlo</td>
-<td></td>
-</tr>
-<tr align="center">
-<td>Publicar post solo con imagenes pero sin contenido y luego borrarlo</td>
+<td>Guardar miembro solo con email y no suscrito a newsletter</td>
 <td></td>
 </tr>
 </table>
