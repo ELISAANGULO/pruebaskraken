@@ -18,7 +18,7 @@ Para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a
 Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
 
 
-<h1 align="left">Escenarios de pruebas Automatizadas con 🐙</h1>
+<h1 align="left">Escenarios de pruebas Automatizadas con Kraken🐙</h1>
 
 A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
 
