@@ -11,66 +11,66 @@
 <tr align="center">
 <th rowspan="4"><center> Crear post</center></th>
 <td>Crear posts</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear post sin titulo y con contenido</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear un post sin titulo ni contenido</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear un post y hacer preview</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center>Crear pagina</center></th>
 <td>Crear pagina </td>
-<td>Ejecutado</td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear pagina sin titulo y con contenido</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear pagina sin titulo y ni contenido</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear pagina solo con imagen</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear tags</center></th>
 <td>Crear tags sin nombre</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags solo con nombre</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags con nombre y descripcion</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags con nombre e imagen</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear usuario</center></th>
 <td>Crear usuario con los datos correctos</td>
-<td>Ejecutado</td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario con un email erroneo</td>
-<td>Ejecutado</td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario vacio</td>
-<td>Ejecutado</td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario solo con email y no poner contraseña </td>
@@ -79,19 +79,19 @@
 <tr align="center">
 <th rowspan="4"><center> Publicar post</center></th>
 <td>Publicar post vacio y borrar post vacio</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Publicar post solo sin titulo pero con contenido y luego borrarlo</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Publicar post solo con titulo pero sin contenido y luego borrarlo</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Publicar post solo con imagenes pero sin contenido y luego borrarlo</td>
-<td></td>
+<td><a href="https://uniandes-my.sharepoint.com/:v:/g/personal/c_barreiroh_uniandes_edu_co/EUdge-Ts4olHhSIDvDrNWFgBtxibsoBqz5xgzXzimZvEeg?e=q4kvVL">Click aqui</a></td>
 </tr>
 </table>
 
