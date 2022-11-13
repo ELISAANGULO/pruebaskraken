@@ -157,3 +157,15 @@ When('I click guardar miembro', async function() {
     let element = await this.driver.$('.gh-btn.gh-btn-primary.gh-btn-icon.ember-view');
     return await element.click();
 })
+
+
+When('I enter name miembro {kraken-string}', async function(writepage) {
+    let element = await this.driver.$('#member-name');
+    return await element.setValue(writepage)
+})
+
+When('I enter email miembro {kraken-string}', async function(writepage) {
+    let element = await this.driver.$('#member-email');
+    return await element.setValue(writepage)
+})
+
