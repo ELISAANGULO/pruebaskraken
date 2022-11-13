@@ -17,7 +17,7 @@ para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a
 
 Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
 
-# Kraken
+# Detalle de las funcionalides y escenarios bajo pruebas usando Kraken
 
 ## Escenarios implementados en Kraken
 
