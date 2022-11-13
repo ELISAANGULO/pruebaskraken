@@ -66,7 +66,7 @@
 </tr>
 <tr align="center">
 <td>Registrar usuario con un email erroneo</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Email_Incorrecto">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario vacio</td>
