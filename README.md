@@ -91,7 +91,7 @@
 </tr>
 <tr align="center">
 <td>Guardar miembro solo con email y no suscrito a newsletter</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_con_.email_correcto">Click aqui</a></td>
 </tr>
 </table>
 
