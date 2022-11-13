@@ -6,6 +6,10 @@
 | David León        | da.vargasl1@uniandes.edu.co  |
 | Camilo Barreiro   | c.barreiroh@uniandes.edu.co  |
 | Isaí Oliva        | i.oliva@uniandes.edu.co  |
+## Reportes
+[Escenario 1](https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=Gh5AHH)
+<br/>
+[Escenario 2](https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=hxbCSF)
 
 <h1 align="center">Escenarios de pruebas Automatizadas</h1>
 
@@ -13,13 +17,13 @@ A continuacion se visualizar varios escenarios de pruebas que se imnplementaron 
 
 ## Pruebas con Cypress
 
-para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a href="https://github.com/ELISAANGULO/Cypress">Click aqui</a>
+Para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a href="https://github.com/ELISAANGULO/Cypress">Click aqui</a>
 
 Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
 
-# Detalle de las funcionalides y escenarios bajo pruebas usando Kraken
+# Detalle de las funcionalides y escenarios bajo pruebas usando Kraken 🐙
 
-## Escenarios implementados en Kraken
+## Escenarios implementados en Kraken 🐙
 
 <table align="center">
 <tr align="center">
