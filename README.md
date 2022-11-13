@@ -62,7 +62,7 @@
 <tr align="center">
 <th rowspan="4"><center> Crear usuario</center></th>
 <td>Crear usuario con los datos correctos</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Datos_Correctos">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario con un email erroneo</td>
