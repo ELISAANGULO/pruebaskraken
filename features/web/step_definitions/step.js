@@ -6,11 +6,12 @@ const loginFrm= new Login("Incio");
 const userData = new UserData();
 
 When('I enter email', async function () {
-    let element = await this.driver.$('.email.ember-text-field.gh-input.ember-view');
+    ///html/body/div[2]/div/main/div/div/section/form/div[1]/span/input
+    let element = await this.driver.$(loginFrm.txtEmail);
     return await element.setValue(userData.emailAdmin);
 });
 When('I enter password', async function () {
-    let element = await this.driver.$('.password.ember-text-field.gh-input.ember-view');
+    let element = await this.driver.$(loginFrm.txtPassword);
     return await element.setValue(userData.passwordAdmin);
 });
 When('I click next', async function() {
