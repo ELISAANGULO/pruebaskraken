@@ -84,3 +84,19 @@ When('I edit post {kraken-string}', async function(writepage) {
     let element = await this.driver.$('.gh-editor-title.ember-text-area.gh-input.ember-view');
     return await element.setValue(writepage)
 })
+
+When('I click tags', async function() {
+    let element = await this.driver.$('.active.ember-view.active');
+    return await element.click();
+})
+
+When('I click new tag', async function() {
+    
+    let element = await this.driver.$('.ember-view.gh-btn.gh-btn-primary');
+    return await element.click();
+})
+
+When('I enter name {kraken-string}', async function(writepage) {
+    let element = await this.driver.$('.gh-input');
+    return await element.setValue(writepage);
+})
