@@ -11,19 +11,19 @@
 <tr align="center">
 <th rowspan="4"><center> Crear post</center></th>
 <td>Crear posts</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear post sin titulo y con contenido</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear un post sin titulo ni contenido</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear un post y hacer preview</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center>Crear pagina</center></th>
