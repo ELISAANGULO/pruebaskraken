@@ -11,17 +11,17 @@
 <br/>
 [Escenario 2](https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=hxbCSF)
 
-<h1 align="center">Escenarios de pruebas Automatizadas</h1>
-
-A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
-
-## Pruebas con Cypress
+# Pruebas con Cypress
 
 Para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a href="https://github.com/ELISAANGULO/Cypress">Click aqui</a>
 
 Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
 
-# Detalle de las funcionalides y escenarios bajo pruebas usando Kraken 🐙
+
+<h1 align="left">Escenarios de pruebas Automatizadas con 🐙</h1>
+
+A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
+
 
 ## Escenarios implementados en Kraken 🐙
 
@@ -133,26 +133,34 @@ Para la ejecucion primero se tiene que descargar el repositorio colocando en la 
 
 Crear un directorio para instalar ghost 5.19.0
 ```shell
-$ mkdir ghost5_19_0
-
-$ cd ghost5_19_0
+mkdir ghost5_19_0
 ```
-
-
 ```shell
- $ ghost install 5.19.0 --port 2368 local
- $ ghost start
+cd ghost5_19_0
 ```
 
 ```shell
-$ mkdir equipo18
-$ cd equipo18
-$ git clone https://github.com/ELISAANGULO/Kraken.git
+ghost install 5.19.0 --port 2368 local
+```
+```shell
+ghost start
+```
+
+```shell
+mkdir equipo18
+```
+
+```shell
+cd equipo18
+```
+
+```shell
+git clone https://github.com/ELISAANGULO/Kraken.git
 ```
 Luego de haber descargado el repositorio procedera a ejecutar el siguiente comando dentro de la carpeta descargada
 
 ```shell
-$ npm install kraken-node -g
+npm install kraken-node -g
 ```
 
 Luego de haber ejecutado el comando anterior procede a ejecutar Kraken con el siguiente comando
