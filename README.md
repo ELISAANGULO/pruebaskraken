@@ -78,6 +78,7 @@
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear miembro</center></th>
+<tr align="center">
 <td>Añadiendose a uno mismo como miembro</td>
 <td></td>
 </tr>
