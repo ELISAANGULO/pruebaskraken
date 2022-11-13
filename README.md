@@ -1,3 +1,11 @@
+<h1 align="center">Escenarios de pruebas Automatizadas</h1>
+
+A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
+
+> Nota: Si se quiere visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a href="https://github.com/ELISAANGULO/Cypress">Click aqui</a>
+
+Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
+
 # Kraken
 
 ## Escenarios implementados en Kraken
