@@ -78,11 +78,10 @@
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear miembro</center></th>
-</tr>
-<tr align="center">
 <td>Añadiendose a uno mismo como miembro</td>
 <td></td>
 </tr>
+<tr align="center">
 <td>Guardar miembro vacio</td>
 <td></td>
 </tr>
