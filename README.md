@@ -53,7 +53,7 @@
 </tr>
 <tr align="center">
 <td>Crear tags con nombre y descripcion</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Con_Nombre_Con_Descripcion">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags con nombre e imagen</td>
