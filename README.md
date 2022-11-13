@@ -56,8 +56,8 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Con_Nombre_Con_Descripcion">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear tags con nombre e imagen</td>
-<td></td>
+<td>Crear tag vacio</td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Vacio">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear usuario</center></th>
