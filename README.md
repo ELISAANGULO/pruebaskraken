@@ -70,7 +70,7 @@
 </tr>
 <tr align="center">
 <td>Registrar usuario vacio</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Datos_Vacios">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario solo con email y no poner contraseña </td>
