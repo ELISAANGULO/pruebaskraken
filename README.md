@@ -35,8 +35,8 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Pagina_Sin_Titulo_Con_Contenido">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear pagina sin titulo y ni contenido</td>
-<td></td>
+<td>Crear pagina vacia</td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Pagina_Vacia">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear pagina solo con imagen</td>
