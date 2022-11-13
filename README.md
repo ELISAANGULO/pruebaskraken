@@ -79,7 +79,7 @@
 <tr align="center">
 <th rowspan="4"><center> Crear miembro</center></th>
 <td>Añadiendose a uno mismo como miembro</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_A%C3%B1adirse_Como_Miembro">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Guardar miembro vacio</td>
