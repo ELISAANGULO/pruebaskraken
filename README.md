@@ -39,7 +39,7 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Pagina_Vacia">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear pagina solo con imagen</td>
+<td>Crear pagina con titulo y descripcion</td>
 <td></td>
 </tr>
 <tr align="center">
