@@ -45,7 +45,7 @@
 <tr align="center">
 <th rowspan="4"><center> Crear tags</center></th>
 <td>Crear tags sin nombre</td>
-<td></td>
+<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Sin_Nombre">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Crear tags solo con nombre</td>
